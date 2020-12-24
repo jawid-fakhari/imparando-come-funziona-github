@@ -1,4 +1,4 @@
-un branch su branch
+
 
 qusto è un branch che viene creato prima di entrare nel file 
 dal menu branch/main...
@@ -22,3 +22,6 @@ update github.txt
 presscommit changes
 
 poi viene  fatto commit (salvato) ma con il puntino "Commit to the ..... branch"
+
+
+branch su branch
