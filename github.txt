@@ -1,0 +1,9 @@
+lavorare con github:
+creare un nuovo ripository
+dare un nome
+descrivere il file
+cliccare readme
+creare un nuovo file
+dare un nome al file con il format....
+mettere qualcosa dentro il file (scrivere)
+press commit new file = save file
