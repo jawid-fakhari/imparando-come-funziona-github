@@ -1,3 +1,6 @@
+
+main line, prima di mergere il secondo branch
+
 qusto è un branch che viene creato prima di entrare nel file 
 dal menu branch/main...
 
