@@ -1,3 +1,6 @@
+qusto è un branch che viene creato prima di entrare nel file 
+dal menu branch/main...
+
 lavorare con github:
 creare un nuovo ripository
 dare un nome
@@ -15,3 +18,5 @@ press commit changes (che diventa history del nostro file)
 Aggiungo un altra cosa ancora per dimostrare la history.
 update github.txt
 presscommit changes
+
+poi viene  fatto commit (salvato) ma con il puntino "Commit to the ..... branch"
