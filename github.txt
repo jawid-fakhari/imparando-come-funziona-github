@@ -7,3 +7,7 @@ creare un nuovo file
 dare un nome al file con il format....
 mettere qualcosa dentro il file (scrivere)
 press commit new file = save file
+
+Devo aggiungere un altra cosa al file salvato, lo apro e clicco sulla penna (modifica)
+update github.txt (aggiungo/cambio il nome del file)
+press commit changes (che diventa history del nostro file)
